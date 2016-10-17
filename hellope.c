@@ -7,6 +7,7 @@ int main(void)
   printf("sizeof IMAGE_NT_HEADERS: %d\n", sizeof(IMAGE_NT_HEADERS));
   printf("Test\n");
   printf("First Patch\n");
+  printf("Second Patch\n");
 
   return 0;
 }
